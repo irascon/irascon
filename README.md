@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @irascon a Systems Hardware Engineer working as .Net software developer
-- 👀 I’m interested in .Net areas for web development and databases.
+- 👋 Hi, I’m @irascon a Systems Hardware Engineer working as Project manager and .Net software developer.
+- 👀 I’m interested in .Net areas for web and databases development development.
 - 📫 Reach me via email at ivan.rascon.4@gmail.com
 
 <!---
